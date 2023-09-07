@@ -1,0 +1,1 @@
+"Inside this file are code snippets that demonstrate best practise for coding. Review and apple these techniques in your work"
